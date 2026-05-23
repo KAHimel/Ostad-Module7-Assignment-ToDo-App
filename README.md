@@ -40,7 +40,7 @@ git clone https://github.com/your-username/flutter-todo-list-ui.git
 
 ### 2. Navigate to project folder
 ```bash
-cd cd flutter-todo-list-ui
+cd flutter-todo-list-ui
 ```
 
 ### 3. Install dependencies
