@@ -1,4 +1,4 @@
-# Ostad-Module7-Assignment-ToDo-App# Flutter To-Do List UI App
+# Flutter To-Do List UI App
 
 A simple and responsive Flutter To-Do List UI application built using basic Flutter widgets and layout system.
 
